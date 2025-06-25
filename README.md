@@ -9,8 +9,7 @@ This project applies semantic segmentation techniques to urban scene images usin
 
 ## Dataset
 
-The dataset includes paired images and masks representing different semantic classes. Images are resized to 128×128 for training efficiency.
-
+The dataset includes paired images and masks representing different semantic classes.
 ## Workflow
 
 1. Data preprocessing and augmentation
